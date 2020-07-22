@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Home</h2>
+    <h2>Posts Index</h2>
   </div>
 </template>
 
